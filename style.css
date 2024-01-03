@@ -475,7 +475,7 @@ section{
 
     @media screen and (max-width:767px){
         /* smartphone */
-        font-size: 15px;
+        font-size: 12px;
         }
 
         @media screen and (min-width:767px) and (max-width:1023px){
@@ -491,7 +491,7 @@ section{
 
     @media screen and (max-width:767px){
         /* smartphone */
-        font-size: 12px;
+        font-size: 10px;
         }
 
         @media screen and (min-width:767px) and (max-width:1023px){
